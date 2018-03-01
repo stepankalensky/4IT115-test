@@ -6,10 +6,11 @@
 	<artifactId>test_case</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<description>příklad do testu</description>
+	<name>test_case</name>
 	<dependencies>
 		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
+			<groupId>junit</groupI>			
+<artifactId>junit</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 			<scope>test</scope>
 		</dependency>
