@@ -5,6 +5,7 @@
 	<groupId>com.github.stepankalensky</groupId>
 	<artifactId>test_case</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<name>test_case</name>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
